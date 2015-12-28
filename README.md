@@ -1,2 +1,2 @@
 # Python
-study every day!
+学习工作过程中，写的一些脚本存储在这。
